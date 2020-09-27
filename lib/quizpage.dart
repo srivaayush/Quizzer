@@ -3,6 +3,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:quizzer/resultpage.dart';
 
 class getjason extends StatelessWidget {
   @override
@@ -77,11 +78,13 @@ class _quizpageState extends State<quizpage> {
 
   void nextquestion() {
     setState(() {
-      if (i < 15) {
+      if (i <= 3) {
         i++;
         print(i);
       } else {
-        print(i);
+        Navigator.of(context).pushReplacement(MaterialPageRoute(
+          builder: (context) => resultpage(ma: ma),
+        ));
       }
     });
 
