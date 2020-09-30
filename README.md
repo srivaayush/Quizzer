@@ -1,6 +1,8 @@
 # quizzer
 
 A new Flutter application.
+This project is a analysis app. It can be used to detemine your body type.
+It uses some traditionals set of questions to determine your personality type.
 
 ## Getting Started
 
