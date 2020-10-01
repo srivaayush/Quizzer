@@ -11,9 +11,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Quizzerr",
+      // // // title: "Quizzerr",
+      // theme: ThemeData.dark(),
+
       theme: ThemeData(
-        primarySwatch: Colors.indigo,
+        primaryColor: Color(0xffBDBDBD),
       ),
       home: splashscreen(),
     );
