@@ -1,0 +1,159 @@
+{
+
+"q1": {
+  "question": "What is your physical built like (Your Body-Frame) ?",
+  "options": [
+                    "a) Thin,bony and small framed.Hardly gain weight.",
+                    "b) Medium-built. Can gain or lose weight easily.",
+                    "c) Large built.Gain weight easily but difficult to lose."
+                ]
+
+}
+,
+"q2": {
+  "question": "How do you walk and talk ?",
+  "options": [
+                    "a) Fast walk and talk.",
+                    "b) Moderate and determined walk.",
+                    "c) Slow and steady walk."
+                ]
+
+}
+,
+"q3": {
+  "question": "Your reaction to weather conditions(what do you like) ?",
+  "options": [
+                    "a) Enjoy warm climate but feel uncomfortable in cool weather.",
+                    "b) Enjoy cool weather and dislike warm climate.",
+                    "c) Comfortable for most of the year but prefer summer and spring. Don't like damp climate."
+                ]
+
+}
+,
+"q4": {
+  "question": "Sweating and body odour ?",
+  "options": [
+                    "a) Sweat little but not much. Have minimum body odour.",
+                    "b) Sweat a lot. Have medium body odour.",
+                    "c) Sweat moderately but sweat a lot while working hard. Have strong body odour."
+                ]
+
+}
+,
+"q5": {
+  "question": "What is your APPETITE or hunger like ?",
+  "options": [
+                    "a) Irregular,Sometimes I feel hungry sometimes I don't.",
+                    "b) Strong and sharp. Always feel hungry.",
+                    "c) Decent appetite. Have tendency to eat for comfort and taste."
+                ]
+
+}
+,
+"q6": {
+  "question": "What is your skiln type ?",
+  "options": [
+                    "a) Normal to dry, rough, thin and cool. Skin issues like dryness, dullness and wrinkly.",
+                    "b) Normal to oily, soft, reddish, sensitive and warm. Skin issues like inflammation.",
+                    "c) Normal to oily, soft, thick and cool. Skin issues like excessive oily, itching, fungal infections."
+                ]
+
+}
+,
+"q7": {
+  "question": "How is the texture of your hair ?",
+  "options": [
+                    "a) Rough, dry and wavy. I get split ends easily.",
+                    "b) Normal,straight, thin and brownish.",
+                    "c) Thick, curly and oily. Hair colour tends to be an darker side."
+                ]
+
+}
+,
+"q8": {
+  "question": "How are your Lips and Teeth ?",
+  "options": [
+                    "a) Thin lips that tend to get dry. Teeth can be somewhat uneven and require constant attention.",
+                    "b) Medium sized soft lips. Upper lip slightly darker than lower lip. Teeth are medium sized but I tend to suffer from cavities.",
+                    "c) Large and smooth lips. Teeth are well formed and aligned and require less care in general."
+                ]
+
+}
+,
+"q9": {
+  "question": "Your eyes ?",
+  "options": [
+                    "a) Small in size. Feel dry and sleepy eyes often.",
+                    "b) Medium in size. I often get reddish eyes.",
+                    "c) Big and attractive. I have thick eyelashes."
+                ]
+
+}
+,
+"q10": {
+  "question": "Some general sign of your body ?",
+  "options": [
+                    "a) Cracking sound in joints. Small forehead. Nails cracks easily.",
+                    "b) Black moles on body. Medium forehead. Nails are pink and soft.",
+                    "c) Disproportionate body like heavy thighs, hips etc. Large forehead. Nails are wide and whitish."
+                ]
+
+}
+,
+
+
+
+
+
+"q11": {
+  "question": "What kind of memory do you have ?",
+  "options": [
+                    "a) Quick to learn but quick to forgot. Short term memory is good.",
+                    "b) Average speed of learning. But once learnt never forgets.",
+                    "c) Slow to learn but remembers for a long time. Long term memory is good."
+                ]
+
+}
+,
+"q12": {
+  "question": "Nature of your mind ?",
+  "options": [
+                    "a) Mind tends to get restless easily.",
+                    "b) Mind gets impatient or aggresive easily.",
+                    "c) Mind remains cool and calm. Mostly, unruffels."
+                ]
+
+}
+,
+"q13": {
+  "question": "How good your mind is in taking actions ?",
+  "options": [
+                    "a) Over thinking",
+                    "b) Quick implementation",
+                    "c) Lazy Implementation. Has a tendency to procastinate."
+                ]
+
+}
+,
+"q14": {
+  "question": "How is the quality of your sleep ?",
+  "options": [
+                    "a) Light and disturbed sleep. I wake up easily in the morning.",
+                    "b) Moderate but regular. I can go back to sleep easily.",
+                    "c) Deep and heavy. I can't easily wake up in morning."
+                ]
+
+}
+,
+"q15": {
+  "question": "Your emotional nature ?",
+  "options": [
+                    "a) I worry a lot. Often feel nervous and anxious.",
+                    "b) I often get irritable,angry and impatient.",
+                    "c) Loving and caring. It takes a lot to make me angry."
+                ]
+
+}
+
+
+}
