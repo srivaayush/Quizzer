@@ -1,6 +1,6 @@
 # quizzer
 
-A new Flutter application.
+A new Flutter app for Quizzing using questions stored in Json.
 
 ## Getting Started
 
